@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/PetrRNNT/demo-social-react",
+  "homepage": "https://github.com/PetrRNNT/demo-socialNetwork-react",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -16,6 +16,7 @@
     "react-scripts": "3.4.0",
     "redux": "^4.0.5",
     "redux-form": "^8.3.3",
+    "redux-thunk": "^2.3.0",
     "reselect": "^4.0.0"
   },
   "scripts": {

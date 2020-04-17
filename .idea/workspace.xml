@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7047ec7-050d-48c9-9368-75ac83c781de" name="Default Changelist" comment="" />
+    <list default="true" id="f7047ec7-050d-48c9-9368-75ac83c781de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,14 +19,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZUcfNqSiYb3v1bsS80eaDZd9en" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/Header" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -47,7 +55,17 @@
       <recent name="C:\Users\79148\Desktop\01_React\my-app\src\Components\Dialogs\Message" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -60,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -88,11 +107,12 @@
       <workItem from="1585824353407" duration="7445000" />
       <workItem from="1585832215324" duration="12410000" />
       <workItem from="1585914388032" duration="13705000" />
+      <workItem from="1587133298051" duration="811000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="7" y="201" key="#ESLint" timestamp="1585674122902">
@@ -111,21 +131,25 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="709" y="294" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1585049323718" />
-    <state width="745" height="294" key="GridCell.Tab.0.bottom" timestamp="1585832203696">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="1003" height="143" key="GridCell.Tab.0.bottom" timestamp="1587133519189">
+      <screen x="1920" y="0" width="1024" height="738" />
     </state>
+    <state width="1003" height="143" key="GridCell.Tab.0.bottom/0.0.1858.1080/1920.0.1024.738@1920.0.1024.738" timestamp="1587133519189" />
     <state width="745" height="294" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1585832203696" />
-    <state width="745" height="294" key="GridCell.Tab.0.center" timestamp="1585832203695">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="1003" height="143" key="GridCell.Tab.0.center" timestamp="1587133519189">
+      <screen x="1920" y="0" width="1024" height="738" />
     </state>
+    <state width="1003" height="143" key="GridCell.Tab.0.center/0.0.1858.1080/1920.0.1024.738@1920.0.1024.738" timestamp="1587133519189" />
     <state width="745" height="294" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1585832203695" />
-    <state width="745" height="294" key="GridCell.Tab.0.left" timestamp="1585832203695">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="1003" height="143" key="GridCell.Tab.0.left" timestamp="1587133519189">
+      <screen x="1920" y="0" width="1024" height="738" />
     </state>
+    <state width="1003" height="143" key="GridCell.Tab.0.left/0.0.1858.1080/1920.0.1024.738@1920.0.1024.738" timestamp="1587133519189" />
     <state width="745" height="294" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1585832203695" />
-    <state width="745" height="294" key="GridCell.Tab.0.right" timestamp="1585832203696">
-      <screen x="0" y="0" width="1858" height="1080" />
+    <state width="1003" height="143" key="GridCell.Tab.0.right" timestamp="1587133519189">
+      <screen x="1920" y="0" width="1024" height="738" />
     </state>
+    <state width="1003" height="143" key="GridCell.Tab.0.right/0.0.1858.1080/1920.0.1024.738@1920.0.1024.738" timestamp="1587133519189" />
     <state width="745" height="294" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1585832203696" />
     <state x="148" y="132" key="SettingsEditor" timestamp="1585054491461">
       <screen x="0" y="0" width="1858" height="1080" />
