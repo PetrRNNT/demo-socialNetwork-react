@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/PetrRNNT/demo-socialNetwork-react/static/css/main.21dd11ff.chunk.css",
-    "main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/main.608b24f4.chunk.js",
-    "main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/main.608b24f4.chunk.js.map",
+    "main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/main.fff9315d.chunk.js",
+    "main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/main.fff9315d.chunk.js.map",
     "runtime-main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/runtime-main.c2587b4f.js",
     "runtime-main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/runtime-main.c2587b4f.js.map",
     "static/js/2.dc851490.chunk.js": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js",
     "static/js/2.dc851490.chunk.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js.map",
     "index.html": "/PetrRNNT/demo-socialNetwork-react/index.html",
-    "precache-manifest.333b0a90ccbb134452aa04f84ed4fcba.js": "/PetrRNNT/demo-socialNetwork-react/precache-manifest.333b0a90ccbb134452aa04f84ed4fcba.js",
+    "precache-manifest.2352feb647489a50a2c6ec6d4857c92a.js": "/PetrRNNT/demo-socialNetwork-react/precache-manifest.2352feb647489a50a2c6ec6d4857c92a.js",
     "service-worker.js": "/PetrRNNT/demo-socialNetwork-react/service-worker.js",
     "static/css/main.21dd11ff.chunk.css.map": "/PetrRNNT/demo-socialNetwork-react/static/css/main.21dd11ff.chunk.css.map",
     "static/js/2.dc851490.chunk.js.LICENSE.txt": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c2587b4f.js",
     "static/js/2.dc851490.chunk.js",
     "static/css/main.21dd11ff.chunk.css",
-    "static/js/main.608b24f4.chunk.js"
+    "static/js/main.fff9315d.chunk.js"
   ]
 }
