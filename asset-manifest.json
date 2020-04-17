@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/PetrRNNT/demo-socialNetwork-react/static/css/main.21dd11ff.chunk.css",
-    "main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/main.bfe1c533.chunk.js",
-    "main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/main.bfe1c533.chunk.js.map",
+    "main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/main.608b24f4.chunk.js",
+    "main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/main.608b24f4.chunk.js.map",
     "runtime-main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/runtime-main.c2587b4f.js",
     "runtime-main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/runtime-main.c2587b4f.js.map",
-    "static/js/2.6c7ff3b4.chunk.js": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js",
-    "static/js/2.6c7ff3b4.chunk.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js.map",
+    "static/js/2.dc851490.chunk.js": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js",
+    "static/js/2.dc851490.chunk.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js.map",
     "index.html": "/PetrRNNT/demo-socialNetwork-react/index.html",
-    "precache-manifest.a1fba131a120172612f480b6f8f2d54d.js": "/PetrRNNT/demo-socialNetwork-react/precache-manifest.a1fba131a120172612f480b6f8f2d54d.js",
+    "precache-manifest.333b0a90ccbb134452aa04f84ed4fcba.js": "/PetrRNNT/demo-socialNetwork-react/precache-manifest.333b0a90ccbb134452aa04f84ed4fcba.js",
     "service-worker.js": "/PetrRNNT/demo-socialNetwork-react/service-worker.js",
     "static/css/main.21dd11ff.chunk.css.map": "/PetrRNNT/demo-socialNetwork-react/static/css/main.21dd11ff.chunk.css.map",
-    "static/js/2.6c7ff3b4.chunk.js.LICENSE.txt": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js.LICENSE.txt",
+    "static/js/2.dc851490.chunk.js.LICENSE.txt": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js.LICENSE.txt",
     "static/media/index.css": "/PetrRNNT/demo-socialNetwork-react/static/media/background.7c98d8d8.png",
     "static/media/preloader.svg": "/PetrRNNT/demo-socialNetwork-react/static/media/preloader.0fc9cd92.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c2587b4f.js",
-    "static/js/2.6c7ff3b4.chunk.js",
+    "static/js/2.dc851490.chunk.js",
     "static/css/main.21dd11ff.chunk.css",
-    "static/js/main.bfe1c533.chunk.js"
+    "static/js/main.608b24f4.chunk.js"
   ]
 }

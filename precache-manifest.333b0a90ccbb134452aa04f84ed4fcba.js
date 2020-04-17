@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bdc119fbe2517146c96b9b7a6514bc75",
+    "revision": "44d9c472803785561a1501f63f2d15e4",
     "url": "/PetrRNNT/demo-socialNetwork-react/index.html"
   },
   {
-    "revision": "0ab38e4eb355ba6ff31d",
+    "revision": "cf4ec51c7eabab422233",
     "url": "/PetrRNNT/demo-socialNetwork-react/static/css/main.21dd11ff.chunk.css"
   },
   {
-    "revision": "3448d8d5988b30fd3ada",
-    "url": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js"
+    "revision": "28bfdcc03cca09c632fe",
+    "url": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js.LICENSE.txt"
+    "url": "/PetrRNNT/demo-socialNetwork-react/static/js/2.dc851490.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ab38e4eb355ba6ff31d",
-    "url": "/PetrRNNT/demo-socialNetwork-react/static/js/main.bfe1c533.chunk.js"
+    "revision": "cf4ec51c7eabab422233",
+    "url": "/PetrRNNT/demo-socialNetwork-react/static/js/main.608b24f4.chunk.js"
   },
   {
     "revision": "9dd22c9323a13d02ceea",
