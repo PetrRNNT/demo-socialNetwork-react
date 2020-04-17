@@ -1,0 +1,54 @@
+.formControl.error input,
+.formControl.error textarea {
+    border: 2px solid red;
+}
+
+.formControl.error span {
+    color: red;
+}
+
+.formSummaryError {
+    border: 2px solid red;
+    padding: 5px;
+    color: red;
+}
+
+/*FORM*/
+
+input{
+    width: 150px;
+    height:25px;
+    font-size: 12px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    padding-left: 40px;
+}
+input[type="checkbox"]{
+    width: 20px;
+    margin-bottom: 10px;
+}
+.loginForm {
+    padding-left: 50px;
+}
+.loginButton {
+    text-decoration: none;
+    font-family: "monospace";
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: #2196f3;
+    background: none;
+    cursor: pointer;
+    display: inline-block;
+    padding: 5px 15px;
+    border: none;
+    font-size: 16px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+
+.loginButton:hover{
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3, 0 0 40px #2196f3, 0 0 80px #2196f3;
+    transition-delay: 1s;
+}

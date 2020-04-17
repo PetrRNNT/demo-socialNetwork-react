@@ -1,0 +1,47 @@
+.nav {
+    grid-area: n;
+    background: rgba(0,0,20, 0.9);
+    padding: 40px;
+    box-shadow: 0px 4px 13px -3px #fff;
+    min-height: 100vh;
+    position: sticky;
+    top: 57px;
+}
+
+
+.item a {
+    font-family: monospace;
+    font-size: 24px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.item a.active {
+    color: dodgerblue;
+}
+.friend {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 65px;
+}
+
+/*/////////////////////////*Gradient*/
+/*.backSkew{*/
+/*    position: relative;*/
+/*    display: flex;*/
+/*}*/
+
+/*.backSkew:before {*/
+/*    content: '';*/
+/*    position: absolute;*/
+/*    top: -2px;*/
+/*    left: -2px;*/
+/*    right: -2px;*/
+/*    bottom: -2px;*/
+/*    background: #fff;*/
+/*    transform: skew(2deg,2deg);*/
+/*    z-index: -1;*/
+/*}*/
+/*.backSkew:nth-child(1):before{*/
+/*    background: linear-gradient(315deg, #e91e63, #5d02ff);*/
+/*}*/

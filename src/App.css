@@ -1,0 +1,24 @@
+.app-wrapper {
+    display: grid;
+    grid-template-areas: "n c";
+    /*grid-template-rows: 70px 1fr;*/
+    grid-template-columns: 2fr 10fr;
+    grid-column-gap: 10px;
+    width: 1170px;
+    /*height: 5200px;*/
+    margin: 0 auto;
+}
+
+.app-wrapper-content {
+    background: rgba(15, 15, 60, 0.7);
+    box-shadow: 0px 4px 13px -3px #fff;
+    height: 100%;
+    min-height: 100vh;
+}
+
+
+
+.secondBlock {
+    background: rgba(0, 0, 20, 0.3);
+    height: 100%;
+}
