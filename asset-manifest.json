@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/PetrRNNT/demo-social-react/static/css/main.98450a99.chunk.css",
-    "main.js": "/PetrRNNT/demo-social-react/static/js/main.ab27c0ee.chunk.js",
-    "main.js.map": "/PetrRNNT/demo-social-react/static/js/main.ab27c0ee.chunk.js.map",
-    "runtime-main.js": "/PetrRNNT/demo-social-react/static/js/runtime-main.2c026d60.js",
-    "runtime-main.js.map": "/PetrRNNT/demo-social-react/static/js/runtime-main.2c026d60.js.map",
-    "static/js/2.6c7ff3b4.chunk.js": "/PetrRNNT/demo-social-react/static/js/2.6c7ff3b4.chunk.js",
-    "static/js/2.6c7ff3b4.chunk.js.map": "/PetrRNNT/demo-social-react/static/js/2.6c7ff3b4.chunk.js.map",
-    "index.html": "/PetrRNNT/demo-social-react/index.html",
-    "precache-manifest.08223951d0863f7c8bbd3e4a7c868292.js": "/PetrRNNT/demo-social-react/precache-manifest.08223951d0863f7c8bbd3e4a7c868292.js",
-    "service-worker.js": "/PetrRNNT/demo-social-react/service-worker.js",
-    "static/css/main.98450a99.chunk.css.map": "/PetrRNNT/demo-social-react/static/css/main.98450a99.chunk.css.map",
-    "static/js/2.6c7ff3b4.chunk.js.LICENSE.txt": "/PetrRNNT/demo-social-react/static/js/2.6c7ff3b4.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/PetrRNNT/demo-social-react/static/media/background.7c98d8d8.png",
-    "static/media/preloader.svg": "/PetrRNNT/demo-social-react/static/media/preloader.0fc9cd92.svg"
+    "main.css": "/PetrRNNT/demo-socialNetwork-react/static/css/main.21dd11ff.chunk.css",
+    "main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/main.3acb0244.chunk.js",
+    "main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/main.3acb0244.chunk.js.map",
+    "runtime-main.js": "/PetrRNNT/demo-socialNetwork-react/static/js/runtime-main.c2587b4f.js",
+    "runtime-main.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/runtime-main.c2587b4f.js.map",
+    "static/js/2.6c7ff3b4.chunk.js": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js",
+    "static/js/2.6c7ff3b4.chunk.js.map": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js.map",
+    "index.html": "/PetrRNNT/demo-socialNetwork-react/index.html",
+    "precache-manifest.e1def2c34a82338188cb532e33e87503.js": "/PetrRNNT/demo-socialNetwork-react/precache-manifest.e1def2c34a82338188cb532e33e87503.js",
+    "service-worker.js": "/PetrRNNT/demo-socialNetwork-react/service-worker.js",
+    "static/css/main.21dd11ff.chunk.css.map": "/PetrRNNT/demo-socialNetwork-react/static/css/main.21dd11ff.chunk.css.map",
+    "static/js/2.6c7ff3b4.chunk.js.LICENSE.txt": "/PetrRNNT/demo-socialNetwork-react/static/js/2.6c7ff3b4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/PetrRNNT/demo-socialNetwork-react/static/media/background.7c98d8d8.png",
+    "static/media/preloader.svg": "/PetrRNNT/demo-socialNetwork-react/static/media/preloader.0fc9cd92.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2c026d60.js",
+    "static/js/runtime-main.c2587b4f.js",
     "static/js/2.6c7ff3b4.chunk.js",
-    "static/css/main.98450a99.chunk.css",
-    "static/js/main.ab27c0ee.chunk.js"
+    "static/css/main.21dd11ff.chunk.css",
+    "static/js/main.3acb0244.chunk.js"
   ]
 }
