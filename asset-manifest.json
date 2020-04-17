@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/demo-socialNetwork-react/static/css/main.f45e438a.chunk.css",
-    "main.js": "/demo-socialNetwork-react/static/js/main.b99455d7.chunk.js",
-    "main.js.map": "/demo-socialNetwork-react/static/js/main.b99455d7.chunk.js.map",
+    "main.css": "/demo-socialNetwork-react/static/css/main.39bad9e5.chunk.css",
+    "main.js": "/demo-socialNetwork-react/static/js/main.8ae5eb9b.chunk.js",
+    "main.js.map": "/demo-socialNetwork-react/static/js/main.8ae5eb9b.chunk.js.map",
     "runtime-main.js": "/demo-socialNetwork-react/static/js/runtime-main.ae314076.js",
     "runtime-main.js.map": "/demo-socialNetwork-react/static/js/runtime-main.ae314076.js.map",
-    "static/js/2.dc851490.chunk.js": "/demo-socialNetwork-react/static/js/2.dc851490.chunk.js",
-    "static/js/2.dc851490.chunk.js.map": "/demo-socialNetwork-react/static/js/2.dc851490.chunk.js.map",
+    "static/js/2.8eb2a185.chunk.js": "/demo-socialNetwork-react/static/js/2.8eb2a185.chunk.js",
+    "static/js/2.8eb2a185.chunk.js.map": "/demo-socialNetwork-react/static/js/2.8eb2a185.chunk.js.map",
     "index.html": "/demo-socialNetwork-react/index.html",
-    "precache-manifest.6f288639a1881efdf84d15d9f2921736.js": "/demo-socialNetwork-react/precache-manifest.6f288639a1881efdf84d15d9f2921736.js",
+    "precache-manifest.af5e9a8acb6c602d7c4d99a8b1a058c8.js": "/demo-socialNetwork-react/precache-manifest.af5e9a8acb6c602d7c4d99a8b1a058c8.js",
     "service-worker.js": "/demo-socialNetwork-react/service-worker.js",
-    "static/css/main.f45e438a.chunk.css.map": "/demo-socialNetwork-react/static/css/main.f45e438a.chunk.css.map",
-    "static/js/2.dc851490.chunk.js.LICENSE.txt": "/demo-socialNetwork-react/static/js/2.dc851490.chunk.js.LICENSE.txt",
+    "static/css/main.39bad9e5.chunk.css.map": "/demo-socialNetwork-react/static/css/main.39bad9e5.chunk.css.map",
+    "static/js/2.8eb2a185.chunk.js.LICENSE.txt": "/demo-socialNetwork-react/static/js/2.8eb2a185.chunk.js.LICENSE.txt",
     "static/media/index.css": "/demo-socialNetwork-react/static/media/background.7c98d8d8.png",
     "static/media/preloader.svg": "/demo-socialNetwork-react/static/media/preloader.0fc9cd92.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae314076.js",
-    "static/js/2.dc851490.chunk.js",
-    "static/css/main.f45e438a.chunk.css",
-    "static/js/main.b99455d7.chunk.js"
+    "static/js/2.8eb2a185.chunk.js",
+    "static/css/main.39bad9e5.chunk.css",
+    "static/js/main.8ae5eb9b.chunk.js"
   ]
 }
